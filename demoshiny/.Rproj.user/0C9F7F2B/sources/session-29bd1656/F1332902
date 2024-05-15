@@ -1,0 +1,27 @@
+{
+    "id": "F1332902",
+    "path": "~/demoshiny/app.R",
+    "project_path": "app.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1715773543512.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "100,62",
+        "scrollLine": "95"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1715782405,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1715782405710,
+    "read_only": false,
+    "read_only_alternatives": []
+}
